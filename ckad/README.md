@@ -4,12 +4,14 @@
 
 [System Instructions](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
 
-Node - physical machine, where Kubernetes installed.
+`Node` - physical machine(server), where Kubernetes installed.
 
-Cluster - List of Nodes.
+`Cluster` - List of Nodes.
 
-Kubernetes Master - Node, that manages the Cluster.
+`Kubernetes Master` - Node, that manages the Cluster.
 
-etcd - distributed K-V store where
+`etcd` - distributed K-V store where.
 
-Kubelet - Agent that runs on the node
+`Kubelet` - Agent that runs on the node.
+
+`Container Runtime` - underlining software that runs containers, e.g. Docker, CRI-O, rkt, etc. 
