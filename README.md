@@ -1,2 +1,1 @@
-# certficates
-Certificates prep repo
+Prep repo for certifications/exams
